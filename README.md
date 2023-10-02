@@ -112,6 +112,21 @@ Since, the user id is unique, i have used it for selection of the user in the Up
 In this project, we also require params to fetch user id from the URL.
 
 
+## Screenshots
+
+- Add User
+
+![](Screenshots/AddUser.png)
+
+- Edit User
+
+![](Screenshots/EditUser.png)
+
+- All Users
+
+![](Screenshots/AllUsers.png)
+
+
 
 ## Acknowledgements
 
